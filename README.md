@@ -19,20 +19,21 @@ References
 ### 🙋‍♂️ Bio
 
 <div align="center">
-    Hi. I am <b>Jiho Choi</b>. I am a 3rd-year data scientist at Netmarble AI Center.
+    <!-- Hi. I am <b>Jiho Choi</b>. I am a 3rd-year data scientist at Netmarble AI Center. -->
+    Hello. I am <b>Jiho Choi</b>. I am a PhD student at KAIST AI.
 </div>
 
 
 ### 💻 Relative Experience
-<!-- * Graduate Research Assistant @ Computer Vision and Machine Learning Lab. @ KAIST (2023.12 ~ Current) -->
-* *Data Scientist* @ [Netmarble Corp.](http://netmarble.com/en) (2020.09 ~ Current)
+* *Graduate Research Assistant* @ [Computer Vision and Machine Learning Lab. @ KAIST](https://sites.google.com/view/cvml-kaist/) (2023.12 ~ Current)
+* *Data Scientist* @ [Netmarble Corp.](http://netmarble.com/en) (2020.09 ~ 2023.12)
 * *Graduate Research Assistant* @ [Social & Computer Network Lab. @ SNU](https://cse.snu.ac.kr/en/research/labs) (2018.01 ~ 2020.08)
 * *Software Development Engineer Intern* @ [NAVER LABS Corp.](https://www.naverlabs.com/) (2019.09 ~ 2020.01)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2017.05 ~ 2017.08)
 <!-- * *Individual Research* @ [Purdue University](https://www.cs.purdue.edu/) (2016.06 ~ 2016.12) -->
 
 ### 🎓 Education
-<!-- * Ph.D. Student in [Artificial Intelligence](https://gsai.kaist.ac.kr/) @ KAIST, Seoul, Republic of Korea (2024.03 ~ Current) -->
+* Ph.D. Student in [Artificial Intelligence](https://gsai.kaist.ac.kr/) @ KAIST, Seoul, Republic of Korea (2024.02 ~ Current)
 * M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/en) @ Seoul National University, Seoul, Republic of Korea (2020.08)
 * B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (2017.12)
 
