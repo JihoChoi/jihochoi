@@ -44,9 +44,11 @@ References
 * [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-red?style=for-the-badge&logo=GoogleScholar&logoColor=white&link=https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en&oi=sra)](https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en&oi=sra)
 
 ### 🗂️ Projects
-* 📝 ScribbleDiff (`ICIP 2025`) <a href="https://github.com/kaist-cvml/scribble-guided-diffusion"><img src="https://img.shields.io/github/stars/kaist-cvml/scribble-guided-diffusion?style=social&amp;label=Stars" height="18" alt=""></a>
+https://github.com/kaist-cvml/3d-vlm-gd
+* 📝 Geometric-Distillation (`EMNLP 2025 Findings`) <a href="https://github.com/kaist-cvml/3d-vlm-gd"><img src="https://img.shields.io/github/stars/kaist-cvml/3d-vlm-gd?style=social&amp;label=Stars" height="18" alt=""></a>
+* 📝 Scribble-Diffusion (`ICIP 2025`) <a href="https://github.com/kaist-cvml/scribble-guided-diffusion"><img src="https://img.shields.io/github/stars/kaist-cvml/scribble-guided-diffusion?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📝 PartCATSeg (`CVPR 2025`) <a href="https://github.com/kaist-cvml/part-catseg"><img src="https://img.shields.io/github/stars/kaist-cvml/part-catseg?style=social&amp;label=Stars" height="18" alt=""></a>
-* 📝 DreamCatalyst (`ICLR 2024`) <a href="https://github.com/kaist-cvml/DreamCatalyst"><img src="https://img.shields.io/github/stars/kaist-cvml/DreamCatalyst?style=social&amp;label=Stars" height="18" alt=""></a>
+* 📝 DreamCatalyst (`ICLR 2025`) <a href="https://github.com/kaist-cvml/DreamCatalyst"><img src="https://img.shields.io/github/stars/kaist-cvml/DreamCatalyst?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📝 PartCLIPSeg (`NeurIPS 2024`) <a href="https://github.com/kaist-cvml/part-clipseg"><img src="https://img.shields.io/github/stars/kaist-cvml/part-clipseg?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📝 DynamicGCN (`PLOS ONE 2021`) <a href="https://github.com/JihoChoi/dynamic-gcn"><img src="https://img.shields.io/github/stars/JihoChoi/dynamic-gcn?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📚 🚨 rumor-fake-news-papers <a href="https://github.com/JihoChoi/rumor-fake-news-papers"><img src="https://img.shields.io/github/stars/JihoChoi/rumor-fake-news-papers?style=social&amp;label=Stars" height="18" alt=""></a>
