@@ -44,7 +44,6 @@ References
 * [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-red?style=for-the-badge&logo=GoogleScholar&logoColor=white&link=https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en&oi=sra)](https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en&oi=sra)
 
 ### 🗂️ Projects
-https://github.com/kaist-cvml/3d-vlm-gd
 * 📝 Geometric-Distillation (`EMNLP 2025 Findings`) <a href="https://github.com/kaist-cvml/3d-vlm-gd"><img src="https://img.shields.io/github/stars/kaist-cvml/3d-vlm-gd?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📝 Scribble-Diffusion (`ICIP 2025`) <a href="https://github.com/kaist-cvml/scribble-guided-diffusion"><img src="https://img.shields.io/github/stars/kaist-cvml/scribble-guided-diffusion?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📝 PartCATSeg (`CVPR 2025`) <a href="https://github.com/kaist-cvml/part-catseg"><img src="https://img.shields.io/github/stars/kaist-cvml/part-catseg?style=social&amp;label=Stars" height="18" alt=""></a>
