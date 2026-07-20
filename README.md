@@ -44,6 +44,7 @@ References
 * [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-red?style=for-the-badge&logo=GoogleScholar&logoColor=white&link=https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en&oi=sra)](https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en&oi=sra)
 
 ### 🗂️ Projects
+* 📝 DR-MV3D (`ECCV 2026`) <a href="https://github.com/kaist-cvml/DR-MV3D"><img src="https://img.shields.io/github/stars/kaist-cvml/DR-MV3D?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📝 Perception-Judge (`ICML 2026`) <a href="https://github.com/kaist-cvml/perception-judge"><img src="https://img.shields.io/github/stars/kaist-cvml/perception-judge?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📝 PosterForest (`ACL 2026`) <a href="https://github.com/kaist-cvml/poster-forest"><img src="https://img.shields.io/github/stars/kaist-cvml/poster-forest?style=social&amp;label=Stars" height="18" alt=""></a>
 * 📝 Geometric-Distillation (`EMNLP 2025 Findings`) <a href="https://github.com/kaist-cvml/3d-vlm-gd"><img src="https://img.shields.io/github/stars/kaist-cvml/3d-vlm-gd?style=social&amp;label=Stars" height="18" alt=""></a>
