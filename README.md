@@ -29,6 +29,7 @@ References
 
 ### 💻 Relative Experience
 * *Graduate Research Assistant* @ [Computer Vision and Machine Learning Lab. @ KAIST](https://sites.google.com/view/cvml-kaist/) (2023.12 ~ Current)
+* *Research Intern* @ [NEC Laboratories America](https://www.nec-labs.com/research/media-analytics/people/) (2026.07 ~ 2026.10)
 * *Data Scientist* @ [Netmarble Corp.](http://netmarble.com/en) (2020.09 ~ 2023.12)
 * *Graduate Research Assistant* @ [Social & Computer Network Lab. @ SNU](https://cse.snu.ac.kr/en/research/labs) (2018.01 ~ 2020.08)
 * *Software Development Engineer Intern* @ [NAVER LABS Corp.](https://www.naverlabs.com/) (2019.09 ~ 2020.01)
